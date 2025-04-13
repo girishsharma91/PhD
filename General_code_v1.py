@@ -1,3 +1,4 @@
+# Wrttien by Girish Sharma under the guidance of Prof. Pratim Biswas in 2016
 # This code solves:
 # a. 12 coupled differential equations viz. 5 for number concentration of the particles; 
 #    5 for the volume concentration of the particles; 2 for ions
